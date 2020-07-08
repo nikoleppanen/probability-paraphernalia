@@ -4,6 +4,7 @@
   "description": "Probability Paraphernalia brings you all the successes and failures you need to enjoy Warhammer Fantasy Roleplay 4. Edition via Discord",
   "main": "bot.js",
   "scripts": {
+    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Niko Leppänen",
