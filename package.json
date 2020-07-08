@@ -1,0 +1,15 @@
+{
+  "name": "probability_paraphernalia",
+  "version": "1.0.0",
+  "description": "Probability Paraphernalia brings you all the successes and failures you need to enjoy Warhammer Fantasy Roleplay 4. Edition via Discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niko Leppänen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
