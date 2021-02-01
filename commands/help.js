@@ -3,6 +3,6 @@ module.exports = {
 	description: 'How to use Probability Paraphenalia and list of commands',
 	args: true,
 	execute(message, args) {
-		message.channel.send(`Not implemented yet!`);
+		message.channel.send('Not implemented yet!');
 	},
 };
